@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-    //= require 'jquery-backstretch'
+    //= require 'jquery.backstretch'
 
 
 ## Acknowledgements
