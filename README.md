@@ -1,6 +1,6 @@
 # Backstretch::Rails
 
-A rails asset pipeline packaged version of jQuery Backstretch v2.0.3 this gem will follow the version number of the backstretch distribution.
+A rails asset pipeline packaged version of jQuery Backstretch v2.0.4 this gem will follow the version number of the backstretch distribution.
 
 ## Installation
 
